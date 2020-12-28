@@ -16,7 +16,7 @@
 # گروه 
 G-R08
 
-[RPM02-20 فاطمه دوستانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/20_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86%D9%8A)
+[_RPM02-20 فاطمه دوستانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/20_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86%D9%8A)
 
 [_RPM02-26 ملیکا زمان زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/26_%D9%85%D9%84%D9%8A%D9%83%D8%A7%20%D8%B2%D9%85%D8%A7%D9%86%20%D8%B2%D8%A7%D8%AF%D9%87)
 
