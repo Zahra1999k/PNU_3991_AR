@@ -34,7 +34,7 @@ G-R08
 
 [RPM01-20 مبینا رائیجی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/20_%D9%85%D8%A8%D9%8A%D9%86%D8%A7%20%D8%B1%D8%A7%D8%A6%D9%8A%D8%AC%D9%8A)
 
-[RPM02-49 سمیه قلی پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/49_%D8%B3%D9%85%D9%8A%D9%87%20%D9%82%D9%84%D9%8A%20%D9%BE%D9%88%D8%B1)
+   [RPM02-48_سمیه_قلی پور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/49_%D8%B3%D9%85%D9%8A%D9%87%20%D9%82%D9%84%D9%8A%20%D9%BE%D9%88%D8%B1)
 -----------
 
 ## Winter Semester Courses 1399/2020
