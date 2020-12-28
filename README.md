@@ -6,7 +6,7 @@
 - [Github](https://github.com/Zahra1999k)
 - [PNU_3991_AR](https://github.com/Zahra1999k/PNU_3991_AR)
 
-- [Resume]()
+- [Resume](https://github.com/Zahra1999k/http-zahra.kabiri.github.io)
 
 - [SOP](https://zahra1999k.github.io/SOP/)
 - [javascript Certificate](https://github.com/Zahra1999k/PNU_3991_AR/blob/main/js.pdf)
