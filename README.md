@@ -8,9 +8,8 @@
 
 - [Resume]()
 
-- [SOP]()
+- [SOP](https://zahra1999k.github.io/SOP/)
 - [javascript Certificate](https://github.com/Zahra1999k/PNU_3991_AR/blob/main/js.pdf)
-- [jlord patchwork]()
 
 ------------------
 
